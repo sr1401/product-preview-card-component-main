@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image product desktop](/design/image_desktop.jpg)
-![image product mobile](/design/image_mobile.jpg)
+![image product desktop](/design/image_desktop.png)
+![image product mobile](/design/image_mobile.png)
 
 ### Links
 
